@@ -1,3 +1,5 @@
 Team:
 Members:
-Notes:
+What we did yesterday:
+Plan for today:
+Blockers:
