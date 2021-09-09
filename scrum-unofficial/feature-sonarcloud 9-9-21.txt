@@ -1,8 +1,0 @@
-Team: Triplnr
-Members:Nick and Andy
-What we did yesterday:
-	-Set up sonarcloud for main branch back and frontend 
-Plan for today:
-	-Try to set sonarcloud to the dev branch
-Blockers:
-	- Resources for switching branches
