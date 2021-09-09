@@ -1,0 +1,62 @@
+Team: 
+  Authentication, and create trip refactoring
+
+Members: 
+  Christian Osada, Enrique Gomez
+
+What we did yesterday: 
+  Read up on Auth0 and started implementing it on frontend and started adding accept/reject function to trip invites
+
+Plan for today: 
+  Implementing Auth0 on backend, finish accept/reject refactor
+
+Blockers: 
+  N/A
+
+  
+Team: 
+  CWT Map Integration
+
+Members: 
+  Tim, Michael 
+
+What we did yesterday: 
+  Made CWT Map standalone, to be ported into TRiPLNR project
+
+Plan for today:
+  Fully integrated the CWT Map into TRiPLNR. 
+
+Blockers: 
+  N/A
+
+
+Team: 
+  Triplnr
+
+Members:
+  Nick and Andy
+
+What we did yesterday:
+  Set up sonarcloud for main branch back and frontend 
+
+Plan for today:
+  Try to set sonarcloud to the dev branch
+Blockers:
+  Resources for switching branches
+  
+  
+    
+Team: 
+  Weather
+
+Members: 
+  Alan , Sergio 
+
+What we did yesterday: 
+  Created weather controller, service, model. We also did testing for the weather service.
+
+Plan for today:
+  Adding more testing for controller layer. Analyze front end code and add weather functionality.
+
+Blockers: 
+  N/A
