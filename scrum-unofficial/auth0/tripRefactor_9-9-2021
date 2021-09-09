@@ -1,5 +1,0 @@
-Team: Authentication, and create trip refactoring
-Members: Christian Osada, Enrique Gomez
-What we did yesterday: Read up on Auth0 and started implementing it on frontend and started adding accept/reject function to trip invites
-Plan for today: Implementing Auth0 on backend, finish accept/reject refactor
-Blockers: N/A
