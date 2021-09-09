@@ -1,0 +1,12 @@
+Team: Weather
+
+Members: 
+Alan , Sergio 
+
+What we did yesterday: 
+Created weather controller, service, model. We also did testing for the weather service.
+
+Plan for today:
+Adding more testing for controller layer. Analyze front end code and add weather functionality.
+
+Blockers: None
