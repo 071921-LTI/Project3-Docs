@@ -1,5 +1,0 @@
-Team: Lead
-Members: David Veller
-What we did yesterday: Integrated dev branch into main with no conflicts, added front end validation, sonarcloud set up
-Plan for today: Add Auth0, figure out plan for next week
-Blockers: Merging into main with new Auth0 stuff
