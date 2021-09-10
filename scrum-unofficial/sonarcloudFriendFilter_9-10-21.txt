@@ -1,0 +1,5 @@
+Team: Sonarcloud & filter search
+Members: Nick & Andy
+What we did yesterday: worked on configuring sonarcloud, and fixing bugs/code-smells identified by sonarcloud
+Plan for today: get sonarcloud to work better on dev branch, make friend-search filter results in real-time.
+Blockers: none 
