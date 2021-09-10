@@ -1,7 +1,0 @@
-Team: Indexing Crew
-Members: Micheal Wilder, Timothy St. Dennis
-What we did yesterday: We have implemented the map from CWT into Triplnr without much issue. Started working on research for indexing.
-Plan for today: Implement indexing on test db to demonstrate during P3 that we can index.
-Blockers: The amount of data required to make a noticeable impact on indexing results can eat up a lot of time.
-	-Resolution: We're not using real addresses for the index DB, in addition, we've figured out how to use mockaroo to achieve
-		the data that we've required. (Being able to merge different columns, etc.)
