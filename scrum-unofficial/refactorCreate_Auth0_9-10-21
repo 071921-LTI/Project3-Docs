@@ -1,0 +1,6 @@
+Team:Refactor Create Trip, Auth0
+Members: Enrique Gomez, Christian Osada
+What we did yesterday: Finished backend functionality for passenger requests and got 94% test coverage in TripService. Did the majority of setup for Auth0 in the frontend, 
+and set up enviromental variables in angular as well.
+Plan for today: Change the backend to work with Auth0 as well, implementing passenger request features on frontend.
+Blockers: N/A
