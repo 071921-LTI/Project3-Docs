@@ -1,0 +1,14 @@
+Team: 
+  Weather
+
+Members: 
+  Alan , Sergio 
+
+What we did yesterday: 
+  Weather modal implementatation.
+
+Plan for today:
+  Add weather to trip dashboard. Add icons to the weather and display more weather information.
+
+Blockers: 
+  N/A
