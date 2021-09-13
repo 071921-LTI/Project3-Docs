@@ -1,5 +1,0 @@
-Team: Stops Team
-Members: Tim, Michael
-What we did yesterday: Worked on indexing of database and large data sample
-Plan for today: Add stops to create trips and update trips
-Blockers: none
