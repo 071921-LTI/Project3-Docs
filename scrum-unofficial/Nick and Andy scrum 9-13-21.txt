@@ -1,0 +1,10 @@
+Team: sonarcloud 
+
+Members: Nick & Andy
+
+What we did yesterday: (friday) made the profile search filter functional, created some more styles for the tables in the Dashboard comopnent.
+
+Plan for today: fix more bugs/code smells identified by Sonarcloud. Continue to improve the CSS style for the Dashboard
+component tables. Add the same CSS styles to the table in Profile component.
+
+Blockers: none.
