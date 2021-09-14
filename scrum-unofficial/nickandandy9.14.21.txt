@@ -1,0 +1,10 @@
+Team: Sonarcloud
+Members: Nick and Andy
+What we did yesterday:
+	- CSS styling for tables
+Plan for today:
+	- Implement Address autofill
+	- finishing table css
+	- sonarcloud
+Blockers:
+	none
