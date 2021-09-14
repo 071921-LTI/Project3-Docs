@@ -20,3 +20,15 @@ Plan for today:
   Finish uploading backend files to the amazon S3, adding tests for the trip controller layer
 Blockers:
   N/A
+  
+    
+Team: 
+  Stop Table Shift/ Create Table Layout
+Members: 
+  Tim, Michael
+What we did yesterday: 
+  Added stops to create trip and trip dashboard
+Plan for today: 
+  Testing frontend, create trip layout, trip dashboard layout, stop table manipulation
+Blockers:
+  N/A
