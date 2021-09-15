@@ -1,0 +1,6 @@
+Team: Indexing/HTML Layout Team
+Members: Micheal, Tim
+What we did yesterday: Focused primarilly on the layout of the Create Trip and Update Trip Pages.
+Plan for today: Focus on creating mock data and preparing an index for the actual DB.
+Blockers:
+	MAJOR: Tim could not access his work laptop for several hours today. This has been resolved, however.
