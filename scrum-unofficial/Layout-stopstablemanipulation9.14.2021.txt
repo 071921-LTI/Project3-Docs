@@ -1,5 +1,0 @@
-Team: Stop Table Shift/ Create Table Layout
-Members: Tim, Michael
-What we did yesterday: Added stops to create trip and trip dashboard
-Plan for today: Testing frontend, create trip layout, trip dashboard layout, stop table manipulation
-Blockers: none
