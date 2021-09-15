@@ -1,0 +1,64 @@
+Team: 
+  Lead
+Members: 
+  David Veller
+What we did yesterday: 
+  Integrated dev branch into main with no conflicts, added front end validation, sonarcloud set up
+Plan for today: 
+  Add Auth0, figure out plan for next week
+Blockers: 
+  Merging into main with new Auth0 stuff
+
+
+Team: 
+  Indexing Crew
+Members: 
+  Micheal Wilder, Timothy St. Dennis
+What we did yesterday: 
+  We have implemented the map from CWT into Triplnr without much issue. Started working on research for indexing.
+Plan for today: 
+  Implement indexing on test db to demonstrate during P3 that we can index.
+Blockers: 
+  The amount of data required to make a noticeable impact on indexing results can eat up a lot of time.
+Resolution: 
+  We're not using real addresses for the index DB, in addition, we've figured out how to use mockaroo to achieve
+  the data that we've required. (Being able to merge different columns, etc.)
+
+
+Team: 
+  Weather
+Members: 
+  Alan, Sergio 
+What we did yesterday: 
+  Controller layer testing. Changed returned type of the weather controller on back end. Worked on front end weather on dashboad.
+Plan for today:
+  Adding weather to update trip. Change dashboard weather from tables to pop up modal.
+Blockers: 
+  N/A
+  
+  
+Team:
+  Refactor Create Trip, Auth0
+Members: 
+  Enrique Gomez, Christian Osada
+What we did yesterday: 
+  Finished backend functionality for passenger requests and got 94% test coverage in TripService. Did the majority of setup for Auth0 in the frontend, 
+  and set up enviromental variables in angular as well.
+Plan for today: 
+  Change the backend to work with Auth0 as well, implementing passenger request features on frontend.
+Blockers: 
+  N/A
+  
+  
+Team: 
+  Sonarcloud & filter search
+Members: 
+  Nick & Andy
+What we did yesterday: 
+  Worked on configuring sonarcloud, and fixing bugs/code-smells identified by sonarcloud
+Plan for today: 
+  Get sonarcloud to work better on dev branch, make friend-search filter results in real-time.
+Blockers: 
+  N/A
+  
+  

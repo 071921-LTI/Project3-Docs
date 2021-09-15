@@ -1,0 +1,12 @@
+Team:
+  Invite/Profile Info
+Members:
+  Enrique Gomez, Christian Osada, David Veller
+What we did yesterday:
+  Added testing to trip controller testing layer, finished implementing new passenger management method, started implementing S3 for profile picture uploading 
+  and adding to database
+Plan for today:
+  Finished adding a way to upload new profile pictures, add rest of profile picture features (displaying friends pictures etc.), adding route guards,
+  and a feature where clicking on a friend/passenger request shows information about the associated friend/trip.
+Blockers:
+  N/A
