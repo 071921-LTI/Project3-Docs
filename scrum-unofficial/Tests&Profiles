@@ -1,0 +1,11 @@
+Team:
+  Tests&Profiles
+Members:
+  Enrique Gomez, Christian Osada
+What we did yesterday:
+  Implemented thr ability to click on a request and seeits info (trip and friend invite), added testing to the user controller layer and 
+  refactored the trip controller layer testing. Also started implemented the ability to use pictures in profiles
+Plan for today:
+  Will be adding more testing to the backend and continue to implement the profile picture functionality
+Blockers:
+  N/A
