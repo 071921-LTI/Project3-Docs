@@ -1,5 +1,0 @@
-Team: sonarcloud
-Members: Nick & Andy
-What we did yesterday: fixed CSS styling for responsive tables, worked on integrating auto-fill address bar search.
-Plan for today: finish auto-fill address bar search and use it where it is needed in the application.
-Blockers: none. 
