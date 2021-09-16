@@ -1,5 +1,0 @@
-Team: Mock Data Indexing
-Members: Tim, Michael
-What we did yesterday: Developed Mock data to test indexing for the database
-Plan for today: Finish the mock data for the two remaining tables. Begin index testing.
-Blockers: none
