@@ -1,0 +1,47 @@
+  
+Team: 
+  Weather
+Members: 
+  Alan, Sergio 
+What we did yesterday: 
+  Added weather to trip dashboard. Added icons to the weather and display more weather information.
+Plan for today:
+  Clean up weather info in trip dashboard. Implement loading screens.
+Blockers: 
+  N/A
+  
+Team: 
+  Creat trip refactoring and S3
+Members:
+  Christian Osada, Enrique Gomez
+What we did yesterday:
+  Adding the new passenger function to update trip on the frontend, and added a few components to the register page, and uploading the backend to the amazon S3
+Plan for today:
+  Finish uploading backend files to the amazon S3, adding tests for the trip controller layer
+Blockers:
+  N/A
+  
+    
+Team: 
+  Stop Table Shift/ Create Table Layout
+Members: 
+  Tim, Michael
+What we did yesterday: 
+  Added stops to create trip and trip dashboard
+Plan for today: 
+  Testing frontend, create trip layout, trip dashboard layout, stop table manipulation
+Blockers:
+  N/A
+
+Team: 
+  Sonarcloud
+Members: 
+  Nick and Andy
+What we did yesterday:
+  CSS styling for tables
+Plan for today:
+	- Implement Address autofill
+	- finishing table css
+	- sonarcloud
+Blockers:
+	N/A

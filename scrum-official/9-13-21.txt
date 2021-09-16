@@ -1,0 +1,44 @@
+Team: 
+  Stops Team
+Members: 
+  Tim, Michael
+What we did yesterday: 
+  Worked on indexing of database and large data sample
+Plan for today: 
+  Add stops to create trips and update trips
+Blockers: 
+  N/A
+
+Team: 
+  sonarcloud 
+Members: 
+  Nick & Andy
+What we did yesterday: 
+  (friday) made the profile search filter functional, created some more styles for the tables in the Dashboard comopnent.
+Plan for today: 
+  fix more bugs/code smells identified by Sonarcloud. Continue to improve the CSS style for the Dashboard
+component tables. Add the same CSS styles to the table in Profile component.
+Blockers:  
+  N/A
+
+Team: 
+  Create Trip Refactor
+Members: 
+  Enrique Gomez, Christian Osada
+What we did yesterday: 
+  Finished up the Auth0 implementation and the new method for inputting passengers in the create trip trip function
+Plan for today:  
+  Work on adding the new passenger functionality to the update and add a 'profile' and try to connect the frontend to an S3 Bucket
+Blockers:  
+  N/A
+
+Team: 
+  Weather
+Members: 
+  Alan, Sergio 
+What we did yesterday: 
+  Weather modal implementatation.
+Plan for today:
+  Add weather to trip dashboard. Add icons to the weather and display more weather information.
+Blockers: 
+  N/A

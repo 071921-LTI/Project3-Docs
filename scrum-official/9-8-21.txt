@@ -1,0 +1,5 @@
+Team: Authentication, and create trip refactoring
+Members: Christian Osada, Enrique Gomez
+What we did yesterday: Meetings with the batch and setup for project
+Plan for today: Setting up Auth0 as the new method of authentication for the app, adding the abilitiy for passengers to accept/reject trip invites
+Blockers: N/A
