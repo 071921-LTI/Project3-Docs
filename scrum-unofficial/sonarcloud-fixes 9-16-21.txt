@@ -1,0 +1,5 @@
+Team: sonarcloud
+Members: Nick & Andy
+What we did yesterday: finished autosearch functionality and added it where needed.
+Plan for today: merge into main branch to identify and fix bugs/code smells.
+Blockers: none.
