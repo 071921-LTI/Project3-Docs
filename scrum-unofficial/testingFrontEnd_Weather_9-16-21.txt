@@ -1,0 +1,8 @@
+Team: weather
+Members: Alan , Sergio
+What we did yesterday:
+Testing front end
+Plan for today:
+Weather icon
+Blockers:
+None
