@@ -1,11 +1,36 @@
 Introduction
+	-Introduce the project what it does
 Scope
-Goals
+	-Talk about those 2 projects individually
+	-Merging 2 project 2s together, what elements were brought together
+	-Goals - highlevel
 Technologies
+	-front end
+	-Auth0 security
+	-back end
+	-apis used
+	-pipeline
 Development
-Accomplishments?
-Demo
+	-sprint planning - assigned story points
+		-trello board with user stories
+		-burndown chart
+	-setup of old project/introduction of code
+		-broke down into groups based on user story/feature
+	-scrum
+	-git etiquette
+	-sonarcloud
+	-jenkins?
+	-documentation
+	-testing (before/after)
 Accomplishments
+	-show project before we started working on it (screenshots)
+	-what we added (text)
+Demo
+	-demo
 Challenges
+	-challenges
 Retrospective
+	-things that we did well
+	-things that we learned
 Questions
+	-questions
