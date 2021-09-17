@@ -1,36 +1,37 @@
 Introduction
-	-Introduce the project what it does
+	-Introduce the project what it does - david
 Scope
-	-Talk about those 2 projects individually
-	-Merging 2 project 2s together, what elements were brought together
-	-Goals - highlevel
+	-Talk about those 2 projects individually - alan
+	-cwt before - sergio
+	-triplnr before - andy
+	-Merging 2 project 2s together, what elements were brought together - michael
+	-Goals - highlevel - chris
 Technologies
-	-front end
-	-Auth0 security
-	-back end
-	-apis used
-	-pipeline
+	-front end - christian
+	-back end - david 
+	-3rd partys used - enrique
+	-pipeline - nick
 Development
-	-sprint planning - assigned story points
+	-sprint planning - assigned story points - david
 		-trello board with user stories
 		-burndown chart
-	-setup of old project/introduction of code
-		-broke down into groups based on user story/feature
-	-scrum
-	-git etiquette
-	-sonarcloud
+	-setup of old project/introduction of code - sergio
+		-broke down into groups based on user story/feature - add in actual groups
+	-scrum - 
+	-git etiquette - enrique
+	-sonarcloud - andy and nick
 	-jenkins?
-	-documentation
-	-testing (before/after)
+	-documentation - chris
+	-testing (before/after) front and backend 2 slides - christian
+	-sql indexing - tim and michael
 Accomplishments
-	-show project before we started working on it (screenshots)
-	-what we added (text)
+	-what we added (text) - alan
 Demo
 	-demo
 Challenges
-	-challenges
-Retrospective
-	-things that we did well
+	-challenges (as a group) - tim
+Retrospective - together
+	-things that we did well 
 	-things that we learned
 Questions
 	-questions
