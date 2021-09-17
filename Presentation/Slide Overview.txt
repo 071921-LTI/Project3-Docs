@@ -13,11 +13,11 @@ Technologies
 	-pipeline - nick
 Development
 	-sprint planning - assigned story points - david
-		-trello board with user stories
+		-trello board with user stories - stretch goals
 		-burndown chart
 	-setup of old project/introduction of code - sergio
 		-broke down into groups based on user story/feature - add in actual groups
-	-scrum - 
+	-scrum - david
 	-git etiquette - enrique
 	-sonarcloud - andy and nick
 	-jenkins?
@@ -25,7 +25,7 @@ Development
 	-testing (before/after) front and backend 2 slides - christian
 	-sql indexing - tim and michael
 Accomplishments
-	-what we added (text) - alan
+	-what we added (text) mention what is stretch- alan
 Demo
 	-demo
 Challenges
