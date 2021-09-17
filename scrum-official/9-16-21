@@ -1,0 +1,44 @@
+Team: 
+  Mock Data Indexing
+Members: 
+  Tim, Michael
+What we did yesterday: 
+  Developed Mock data to test indexing for the database
+Plan for today: 
+  Finish the mock data for the two remaining tables. Begin index testing.
+Blockers: 
+  N/A
+  
+Team:
+  Tests&Profiles
+Members:
+  Enrique Gomez, Christian Osada
+What we did yesterday:
+  Implemented thr ability to click on a request and seeits info (trip and friend invite), added testing to the user controller layer and 
+  refactored the trip controller layer testing. Also started implemented the ability to use pictures in profiles
+Plan for today:
+  Will be adding more testing to the backend and continue to implement the profile picture functionality
+Blockers:
+  N/A
+  
+Team: 
+  sonarcloud
+Members: 
+  Nick & Andy
+What we did yesterday: 
+  finished autosearch functionality and added it where needed.
+Plan for today: 
+  merge into main branch to identify and fix bugs/code smells.
+Blockers: 
+  N/A
+  
+Team: 
+  weather
+Members: 
+  Alan , Sergio
+What we did yesterday:
+  Testing front end
+Plan for today:
+  Weather icon
+Blockers:
+  N/A
