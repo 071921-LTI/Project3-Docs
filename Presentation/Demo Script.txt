@@ -1,1 +1,45 @@
 Demo Script
+- Setup
+- Clear google forms
+- David fresh acct
+- Andy: 3 friends already added, 2 future trips with a different passenger on each one, friend request from Enrique, spotify link ready to go
+- 3 demo friends
+	- Alan, Tim, Michael
+https://open.spotify.com/playlist/37i9dQZF1DX0kbJZpiYdZl
+
+
+
+- David
+	- home page
+	- account creation
+		- show validation, extends to any user input
+		- profile pic
+		- write a bio
+	- show user preferences, change something
+	- show filters
+	- view profiles
+	- add person 2 as a friend
+- Andy
+	- Accept friend request
+		- show the modal
+	- Create a trip with 2 friends
+		- date within 2 weeks
+		- show create trip functionality
+		- add 2 passengers
+		- add 2 stops
+		- add spotify link
+	- Mention why they aren't showing up in passenger list
+	- Update trip
+		- map and directions, mention stops
+		- show that you can modify things/reset
+		- roles of passengers
+** Enrique accepts trip in background ** 
+- Christian
+	- Accept trip request
+		- show modal
+	- Trip dashboard
+		- Show weather icons
+		- show in depth weather
+		- Mention how as a passenger you can't edit anything
+
+		
