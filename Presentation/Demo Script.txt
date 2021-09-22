@@ -2,7 +2,7 @@ Demo Script
 - Setup
 - Clear google forms
 - David fresh acct
-- Andy: 3 friends already added, 2 future trips with a different passenger on each one, friend request from Enrique, spotify link ready to go
+- Enrique: 3 friends already added, 2 future trips with a different passenger on each one, friend request from Andy, spotify link ready to go
 - 3 demo friends
 	- Alan, Tim, Michael
 https://open.spotify.com/playlist/37i9dQZF1DX0kbJZpiYdZl
@@ -19,7 +19,7 @@ https://open.spotify.com/playlist/37i9dQZF1DX0kbJZpiYdZl
 	- show filters
 	- view profiles
 	- add person 2 as a friend
-- Andy
+- Enrique
 	- Accept friend request
 		- show the modal
 	- Create a trip with 2 friends
@@ -33,7 +33,7 @@ https://open.spotify.com/playlist/37i9dQZF1DX0kbJZpiYdZl
 		- map and directions, mention stops
 		- show that you can modify things/reset
 		- roles of passengers
-** Enrique accepts trip in background ** 
+** Andy accepts trip in background ** 
 - Christian
 	- Accept trip request
 		- show modal
